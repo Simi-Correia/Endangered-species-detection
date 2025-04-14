@@ -1,4 +1,4 @@
-# Leveraging Generative AI for Enhanced Endangered
+# Leveraging Generative AI for Enhanced Endangered Species Detection and Conservation
 This project aims to support wildlife conservation by classifying endangered animal species using Deep Learning and Generative AI. We used ResNet-18 and DenseNet-201 for image classification and applied Stable Diffusion to generate synthetic images for rare species.
 
 ## Overview
